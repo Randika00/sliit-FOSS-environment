@@ -1,0 +1,49 @@
+.page-footer {
+  color: white;
+  position: static;
+  bottom: 0px;
+  width: 100%;
+  background-color: #222222;
+}
+
+.sm-icons {
+  padding-right: 5px;
+  color: #7700cf;
+}
+
+.content {
+  padding-left: 20px;
+}
+
+.footer-copyright {
+  background-color: #222222;
+  font-family: 'Baloo Thambi 2', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p,
+i,
+h2 {
+  color: snow;
+  font-family: 'Baloo Thambi 2', sans-serif;
+}
+
+a {
+  color: white;
+}
+
+.content,
+.links {
+  background-color: #222222;
+  padding-bottom: 10px;
+}
+
+.footer-heading {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  font-family: 'Baloo Thambi 2', sans-serif;
+}
